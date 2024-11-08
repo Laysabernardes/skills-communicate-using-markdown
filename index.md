@@ -10,3 +10,7 @@ function text (laysa) {
   code teste
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portflio
+- [ ] Introduce myself to the world
